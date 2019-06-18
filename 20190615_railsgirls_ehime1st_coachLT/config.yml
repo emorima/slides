@@ -1,0 +1,8 @@
+theme: "railsgirls"
+author: "Mayumi Emori"
+transition: "page" #スライドの挙動設定
+title: "Rails Girls Japanより耳寄りな情報"
+revealjs_config:
+  slideNumber: true
+  controls: true
+  alloted_time: 300

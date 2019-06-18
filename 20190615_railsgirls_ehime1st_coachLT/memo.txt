@@ -1,0 +1,4 @@
+date: 2019-06-15
+place: Rails Girls Ehime CoachLT
+title: 
+description: 
