@@ -36,7 +36,7 @@ end-time
 * 2010年11月 Helsinki, Finland
 * 世界TODOカ国、TODO回
 
-### note
+## note
 
 Rails Girlsは、2010年にHelsinkiで開催され、今では世界 カ国  回以上開催されている
 女性向けのプログラミングを学ぶワークショップです
@@ -46,20 +46,26 @@ Rails Girlsは、2010年にHelsinkiで開催され、今では世界 カ国  回
 
 # Rails Girls の目的
 
-```Our aim is to give tools and a community for women to understand technology and to build their ideas.```
+TODO
+```
+Our aim is to give tools and a community for women to understand technology and to build their ideas.
+```
 
-### note
+## note
 
 Rails Girls の目的は、テクノロジーを理解し、自分のアイデアを形にするツールとコミュニティを提供することを目的としています。
 
 
 # 国内でのRails Girls
 
-* 2019年5月開催 Nagano 1st 国内開催50回目
-* 先週開催の Kyoto 10thで、57回開催
-* 2020年予定 Nagoya 5th, Ehime 2nd,  Tokyo 13th
+* 2019/05 Nagano 1st 国内50回目
+* 先週    Kyoto 10th 国内57回目
+* 2020年
+  * Nagoya 5th
+  * Ehime 2nd
+  * Tokyo 13th
 
-### note
+## note
 
 日本国内の開催としては、2012年9月に、東京で開催され、
 今年 5月の長野の開催で、国内開催50回目となりました。
@@ -73,7 +79,7 @@ Rails Girls の目的は、テクノロジーを理解し、自分のアイデ�
 TODO map
 image/rails_girls_japan_events_map.png
 
-### note
+## note
 
 開催地域を地図にプロットしてみました。
 
@@ -82,6 +88,10 @@ image/rails_girls_japan_events_map.png
 * 2015/07/24-25 Fukuoka 1st
 * 2017/03/10-15 Kitakyushu 1st
 * 2019/11/01-02 Fukuoka 2nd
+* 2020/?        Kagoshima 1st?
+
+
+## note
 
 九州では、福岡と北九州で開催されています。
 
@@ -98,10 +108,22 @@ Rails Girlsを開催したい!というオーガナイザーがいた場合に�
 
 # なぜRails Girlsが開催されるのか?
 
-### note
+## note
 
 では、これだけRails Girlsが開催されているのは、なぜなのか...ということなんですが、
 なんででしょうね?
+
+それを話す前に、少し昔話をしたいと思います。
+
+# 2014年頃の女性コミュニティのお話
+
+* PyLadies Tokyo,
+* Django Girls
+* Java 女子部
+* JS Girls
+* その他
+
+## note
 
 2014年あたりから、様々な女性コミュニティの活動が活発になりました。
 PyLadies Tokyo, Django Girls, Java 女子部, JS Girlsなど
@@ -109,42 +131,89 @@ PyLadies Tokyo, Django Girls, Java 女子部, JS Girlsなど
 2015年のPyConで、「いま求められるコミュニティの多様性と未来」というお題で、
 女性コミュニティの代表が集まってパネルディスカッションで登壇もしました。
 
+# 女性コミュニティの意義と課題
+
+* 男性ばかりのコミュニティだと参加しづらいと思う女性のコミュニティ参加へのきっかけ
+* 初めてのコミュニティの位置づけのため、技術的なレベルが高いとは言えない
+
+## note
+
 エンジニアの男女比の問題もあり、男性が多くいることで、
 通常のコミュニティに参加しずらいと感じる女性が多くいる
 
-当時、コミュニティへの参加の敷居を下げる活動というのが、
-女性コミュニティの共通の目的となっていました。
+当時、コミュニティへの参加の敷居を下げ、
+コミュニティに参加してもらうのが
+女性コミュニティの共通の意義えした
+
+しかしながら、初めてのコミュニティの位置づけということで、
+技術的なレベルが高いものとはいえない
+
 
 そして、女性コミュニティの活動が活発になった中で、
+大きな問題が出てきます。
 「女性は今まで差別を受けてきたからというけど、
   女性限定って、男性差別ではないか？」という意見です。
 
 # 女性コミュニティは差別なのか問題
 
-### note
+## note
 
 正直、当時、Rails Girls の開催告知をすると、Twitterで誰かが、
 「これって男性差別じゃないの?」と言う時期もありました。
 
-2017年 Rils Girls Japan では、活動趣旨に、
+Rails Girlsをやりたいというオーガナイザーがいて、
+手伝いたいと言ってくれるスタッフや、コーチがいる中で、
+こういった発言をされると、とってもモヤモヤするんですね。
+
+そこで、 Rails Girls Japanのメンバーである
+柴田さん、Akiさんと2017年 Rils Girls Japan では、活動趣旨に、
 railsgirls.jp のサイトにAffirmative Action を掲載しました。
 
-きちんとまとめられているので、何度も読み返したい。
-そして、
-
+こちらになります。
 
 # Affirmative Action
 
 TODO 文言画像で載せる?
 
+## note
 
-### note
+このAffirmative Actionのページですが、
+とてもよくまとめられていると思います。
+
+私自身たまに読み返しているのですが、
+せっかくなので、読んでみたいと思います。
+
+他の女性コミュニティが集まる新年会で、あるコミュニティが Affirmative Actionを紹介していて、
+Rails Girls Japanと似てるサイトだなーと思ってたら、
+Rails Girls Japanのものだったということもあります。
+
+# なぜRails Girlsが開催されるのか?
+
+
+## note
+
+そして、ここで先程のRails Girlsがなぜ開催されるかを考えてみたいと思います。
+
+Rails Girlsは先程話したように、開催したいという方がいないと開催されないため、
+開催したいと思う方が、毎年いる、
+そして嬉しいことに、新しい都市での開催も年々増えているというのが現状です。
+
+オーガナイザーの方になぜ、開催したいかと思ったかとお話したら、
+Rails Girlsをはじめ、コミュニティに参加されている方は、
+「コミュニティに参加して、本当に楽しかったから、
+  自分ができる恩返しが、Rails Girlsの開催だった」という方が多くいらっしゃいます。
+
+また、初めて地域で開催される方は、地元でRailsを学ぶコミュニティが欲しかったとお話されます。
+
+実際、継続して学べる場所として スプラウト.rbや、Ehime.rb などコミュニティをたちあげた方もいます。
 
 
 # Rails Girlsが目指すところ
 
 
-### note
+
+
+## note
 
 女性のみのコミュニティを作りたいわけではありません。
 そのため、Rails Girlsでは、女性同伴であれば、男性参加もOKにしているし、
@@ -153,7 +222,7 @@ TODO 文言画像で載せる?
 
 # 初めてのコミュニティ
 
-### note
+## note
 
 
 一番最初にRails Girls はコミュニティだとお話しましたが、
@@ -164,7 +233,7 @@ TODO 文言画像で載せる?
 
 # rubyfriends
 
-### note
+## note
 
 自撮り棒買ってきた
 
@@ -178,7 +247,7 @@ RubyKaigi への参加希望を募り、参加支援を行ってきています�
 * emori.house
 
 
-### note
+## note
 
 そこで、エモリハウスを紹介します。
 
